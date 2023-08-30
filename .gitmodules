@@ -1,3 +1,15 @@
 [submodule "cli/cli/imageforensics"]
 	path = cli/cli/imageforensics
 	url = https://github.com/pakkunandy/imageforensics.git
+[submodule "FotoTraining"]
+	path = FotoTraining
+	url = https://github.com/fotoverifier/FotoTraining.git
+[submodule "Dedigi"]
+	path = Dedigi
+	url = https://github.com/fotoverifier/Dedigi.git
+[submodule "NameSleuth"]
+	path = NameSleuth
+	url = https://github.com/fotoverifier/NameSleuth.git
+[submodule "DivNoise"]
+	path = DivNoise
+	url = https://github.com/fotoverifier/DivNoise.git
